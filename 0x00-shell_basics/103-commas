@@ -1,2 +1,2 @@
 #!/bin/bash
-ls mf \n        
+ls -aFm\n        
