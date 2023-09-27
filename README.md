@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell
+i'm excited for devops learning
